@@ -1,18 +1,41 @@
-# Ramajayam Estate
+# Ramajayam Estate — Location Web App
 
-A premium, responsive location page built with React and TypeScript.
+A responsive location-focused web application built with **React and TypeScript**.
 
-## Run locally
+## ✨ Features
+
+- Responsive location page
+- Google Maps directions
+- Native sharing with clipboard fallback
+- Copy controls for address, Plus Code, and GPS coordinates
+
+## 🛠️ Tech Stack
+
+- React
+- TypeScript
+- JavaScript/HTML/CSS
+- npm
+
+## 🚀 Run Locally
 
 ```bash
 npm install
 npm run dev
 ```
 
-## Production build
+## 📦 Production Build
 
 ```bash
 npm run build
 ```
 
-The page includes Google Maps directions, native sharing with clipboard fallback, and copy controls for the estate address, Plus Code, and GPS coordinates.
+## 📌 Project Status
+
+A practical frontend project demonstrating responsive UI development, browser APIs, location workflows, and production-build fundamentals.
+
+## 👤 Author
+
+**Vasanth Kumar**
+
+- GitHub: https://github.com/Vasanth027
+- LinkedIn: https://www.linkedin.com/in/vasanth-kumar-321474201/
